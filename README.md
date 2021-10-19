@@ -93,9 +93,10 @@
 
  ##### 2.3成果影片demo 
 
-https://drive.google.com/file/d/1vqmxIu1yrDGLVWdd3KqbPJwNVfV-OUGY/view?usp=sharing 
+https://drive.google.com/file/d/1Fhn4EQOySCOXTNZ0v9zNzNy8UIUILl1Q/view
 
-![image](https://user-images.githubusercontent.com/82867224/137907567-ba7538d0-f2d6-474e-8e05-3d3293336e32.png)
+![qr ioi tw (1)](https://user-images.githubusercontent.com/82867224/137910965-b1df60bf-8e4e-40ae-94f1-58ca7ea84a6a.png)
+
 
 #### 3.計畫執行過程紀錄 
 * 線上開會討論
@@ -186,8 +187,40 @@ https://drive.google.com/file/d/1vqmxIu1yrDGLVWdd3KqbPJwNVfV-OUGY/view?usp=shari
 
 	![image](https://user-images.githubusercontent.com/82867224/137909462-e654df92-d0aa-48be-8536-c3e5b2c55f5a.png)
 	![image](https://user-images.githubusercontent.com/82867224/137909476-158c26a4-66aa-455a-a0bf-ee5d347d8c51.png)
+	
+* # 未來預期效應
 
-* # 心得感想:
+在這後疫情時代，許多產業都發生一些改變。再加上科技的進步，越來越多人使用電商購物。而SFH設計的這款應用程式能夠滿足這樣的趨勢變化，未來可期。
+
+優勢：
+
+1.	直接與小農合作，能拿到最新鮮的蔬果、最優惠的價格。少了盤商之手，價格能減少數倍。
+2.	電商服務是疫情之下仍成長之產業。根據 Shopify 對全球 11個市場的調查，疫情期間有 84%的消費者在線上購物。
+
+![image](https://user-images.githubusercontent.com/82867224/137915167-49574dbe-cdc6-488a-b3c6-9a58665b7c85.png)
+
+(資料來源：Shopify – eMarketer 2020年全球零售電商銷售的成長比)
+
+3.	SFH結合AR科技，為使用者提供沉浸式體驗，給予其他店商無法提供之消費體驗。
+4.	客群廣大，無論是誰都可以使用此應用程式，同時也推進健康生活。讓喜歡運動的人在使用應用程式期間增加趣味性，不喜歡運動者也會為了獲得折扣券而運動。
+
+
+* # 心得感想
 
 	在這次的圓夢計畫中，學習到很多關於軟體從無到有到上市的想法，在開發軟體前站在受眾群的角度去思考以及屏東小農會希望能吸引到什麼族群來購買他們的產品，並在開發軟體前做市場調查，透過質化調查更了解消費者行為及其理由，從中微調開發方向，而未來這群對軟體有興趣的消費者也能為軟體封測的一員。
 在實作的過程中，團隊的想法與實際情況又如何從中取得平衡，這些細節影響著軟體開發的方向，像是運動的趣味性前提是還有購物的便利性，而通常在市場上比較麻煩的行為會有一個相對應的補償，當購物行為變長時，是否也具有相對應的回饋......等，從中也讓我意識到跨領域的重要性，以及自身的不足，很謝謝屏東縣政府暨勞動青年發展處籌辦的暑期圓夢計畫，謝謝慧馨姐、白白以及各位老師的協助，讓我們能把提案計畫寫的更完善，在行銷方面也有了基礎的概念，以及AJ、Maggie......等業界老師的輔導，讓我獲益良多，也謝謝我的團員明妗、嘉伶和語軒，讓我能專心在自己前端的工作上，無後顧之憂。
+
+* # 成果展照片
+
+	![image](https://user-images.githubusercontent.com/82867224/137914998-08b58092-e3b8-4902-90e6-bdf4e4068c81.png)
+	
+	![image](https://user-images.githubusercontent.com/82867224/137914912-56553adf-0b4e-4bea-aac2-15ca64b5026d.png)
+	![image](https://user-images.githubusercontent.com/82867224/137914926-23109867-10ed-4bb9-ab45-caab5d0e0ac8.png)
+	
+	![image](https://user-images.githubusercontent.com/82867224/137914938-b17ca188-670c-4a77-9d19-e7cd4c22671f.png)
+	![image](https://user-images.githubusercontent.com/82867224/137914952-625ad54f-ad76-47f4-a2a2-4cc7c69cc5bf.png)
+	
+	![image](https://user-images.githubusercontent.com/82867224/137914969-a760ea0c-af2b-4123-b9c7-3481cfacdfa0.png)
+	![image](https://user-images.githubusercontent.com/82867224/137914982-b93c189b-0634-441f-95a1-065895f6afeb.png)
+
+
