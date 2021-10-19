@@ -1,8 +1,10 @@
 # SFH
 
 * # 計畫名稱
-		
-    SFH(Shopping From Home)
+ 	## SFH(Shopping From Home)
+![Logo](https://user-images.githubusercontent.com/82867224/137906618-3015635b-aa19-426d-a96d-2a48c404f800.png)
+
+  
 * # 計畫概述
 
   * #### 計畫緣起
@@ -55,10 +57,137 @@
 
    * #### SWOT分析、策略
    
-    ![image](https://user-images.githubusercontent.com/82867224/134872333-b195fdc9-fc89-4d8b-a837-9f2d9ea09eb2.png)
+   	 ![image](https://user-images.githubusercontent.com/82867224/134872333-b195fdc9-fc89-4d8b-a837-9f2d9ea09eb2.png)
 
-     圖7    SWOT分析
+      圖7    SWOT分析
 
-    ![image](https://user-images.githubusercontent.com/82867224/134872389-0b13c8ea-ce8f-46eb-b120-6640bf36489b.png)
+   	 ![image](https://user-images.githubusercontent.com/82867224/134872389-0b13c8ea-ce8f-46eb-b120-6640bf36489b.png)
 
-     圖8    對應策略
+      圖8    對應策略
+     
+* # 成果報告
+
+ #### 1.計畫書預計成果 
+
+* 能正確辨識人體走路的行為 
+
+* 完成APP在畫面中出現商品，供使用者選擇 
+
+* 整合App和辨識Model 
+
+ #### 2.產出成果 
+
+ ##### 2.1完成成果 
+
+* 正確辨識人體運動行為 
+
+* 完成APP介面 
+
+* 完成在APP在畫面中出現商品，供使用者選擇 
+
+ ##### 2.2與計劃書不同之處 
+
+經過多次與業師的輔導後，我們由原本計畫的邊運動邊購物的想法更改為運動與購物分開，主要考量的原因在於使用者使用此APP的效益。若將購物及運動同時進行，第一、會增加整體購物時間，若透過走路更換螢幕上的商品，會讓整個購物流程時間變得很冗長，讓使用者降低使用意願。第二、沒有運動回饋，若此APP只是單純運動結合購物，而沒有讓使用者得到成就或是回饋，會讓使用者失去使用此APP的動力。 
+
+綜合以上，我們維持運動購物的理念，將此次計畫內容更改為：透過運動遊戲獲得購物優惠券，優惠券可用於購物時折抵金額。此想法仍然保留原本想要透過購物刺激運動的想法，讓喜歡運動的人可以因為運動獲得優惠券，依舊可以在家購物的同時增加活動量，同時獲得優惠券的回饋，也更增加使用者使用此APP運動的動力。 
+
+ ##### 2.3成果影片demo 
+
+https://drive.google.com/file/d/1vqmxIu1yrDGLVWdd3KqbPJwNVfV-OUGY/view?usp=sharing 
+
+![image](https://user-images.githubusercontent.com/82867224/137907567-ba7538d0-f2d6-474e-8e05-3d3293336e32.png)
+
+#### 3.計畫執行過程紀錄 
+* 線上開會討論
+* 
+ ![image](https://user-images.githubusercontent.com/82867224/137907989-93558a02-f0c3-4902-aeb6-1272582e921f.png)
+   
+* 網站、APP製作
+
+![image](https://user-images.githubusercontent.com/82867224/137908063-37a8026b-3540-446e-8c03-dfd893b5a538.png)
+![image](https://user-images.githubusercontent.com/82867224/137908089-bf7cf2fb-7242-4579-8daa-ce07639cc795.png)
+
+* Unity製作畫面、程式碼
+
+![image](https://user-images.githubusercontent.com/82867224/137908179-c22ffbde-ba8c-4fa1-96e2-c1f345774093.png)
+![image](https://user-images.githubusercontent.com/82867224/137908198-0ad6808b-2413-44d5-a7c7-99ec164ed0a3.png)
+![image](https://user-images.githubusercontent.com/82867224/137908210-339904e8-c52e-4258-a652-21151baf70c8.png)
+
+* # 輔導紀錄與照片
+
+* 第一次輔導7/28(三)14:30
+	1.	確定未來行銷方向：以圖文宣傳/影片介紹
+	2.	團隊發展：創業/累積經驗
+	3.	製作APP過程與方法：使用Unity
+	4.	組內分工與完成甘特圖
+
+
+	![image](https://user-images.githubusercontent.com/82867224/137908634-ae806783-d53f-4793-9457-4d1fa1dc9f1c.png)
+	![image](https://user-images.githubusercontent.com/82867224/137908647-5fad648b-d188-42e6-8903-883ab32baa8a.png)
+
+* 第二次輔導8/12(四)15:00
+
+	1.	報告目前進度：
+	
+		I.	AR套件嘗試(ARKit)：可成功辨識人體骨架
+		
+		II.	AR套件嘗試(vuforia)：可產生虛擬物件及虛擬按鈕
+		
+	2.	建議：
+	
+		I.	測試圖片loading時間
+		
+		II.	動態新增商品
+		
+		III.	解決金流問題
+
+	![image](https://user-images.githubusercontent.com/82867224/137909022-3c99f0e0-c390-432a-8a6b-cbf962818c89.png)
+	![image](https://user-images.githubusercontent.com/82867224/137909035-9e735e5a-9b50-461e-9634-c8b42f41357e.png)
+	![image](https://user-images.githubusercontent.com/82867224/137909091-b6d7634c-e8e2-420a-98f5-727ffafae49e.png)
+	![image](https://user-images.githubusercontent.com/82867224/137909156-635e2ace-d774-4403-91cb-f182a57c3869.png)
+
+* 第三次輔導8/26(四)11:00
+
+	1.	報告目前進度：
+
+		I.	UI設計完成
+		
+		II.	畫面可以隨機產生物件
+		
+		III.	Flow Chart：
+
+		![image](https://user-images.githubusercontent.com/82867224/137909206-a1b55ca5-0a02-443e-abb0-1d8b58d52335.png)
+		
+	2.	建議：
+	
+		I.	考量時間問題，優先製作最小產品
+		
+		II.	購買行為無法自行完成，需改進
+		
+		III.	APP理念是便利性還是趣味性，若是較麻煩的行為應有相對應的回饋，提升使用者動力
+		
+		IV.	依使用者角度，購買行為應該要便利購買
+		
+	![image](https://user-images.githubusercontent.com/82867224/137909330-0ee346ad-26ea-46fb-9789-b613abc2c69d.png)
+	![image](https://user-images.githubusercontent.com/82867224/137909353-53d9a4a5-9ec3-4f30-bc81-e4a78917e6fa.png)
+
+* 第四次輔導9/12(日)19:00
+
+	1.	品牌Logo設計
+	2.	Slogan設計
+	3.	文案設計：
+
+		I.	背後故事
+		
+		II.	產品介紹
+		
+		III.	動機
+	
+
+	![image](https://user-images.githubusercontent.com/82867224/137909462-e654df92-d0aa-48be-8536-c3e5b2c55f5a.png)
+	![image](https://user-images.githubusercontent.com/82867224/137909476-158c26a4-66aa-455a-a0bf-ee5d347d8c51.png)
+
+* # 心得感想:
+
+	在這次的圓夢計畫中，學習到很多關於軟體從無到有到上市的想法，在開發軟體前站在受眾群的角度去思考以及屏東小農會希望能吸引到什麼族群來購買他們的產品，並在開發軟體前做市場調查，透過質化調查更了解消費者行為及其理由，從中微調開發方向，而未來這群對軟體有興趣的消費者也能為軟體封測的一員。
+在實作的過程中，團隊的想法與實際情況又如何從中取得平衡，這些細節影響著軟體開發的方向，像是運動的趣味性前提是還有購物的便利性，而通常在市場上比較麻煩的行為會有一個相對應的補償，當購物行為變長時，是否也具有相對應的回饋......等，從中也讓我意識到跨領域的重要性，以及自身的不足，很謝謝屏東縣政府暨勞動青年發展處籌辦的暑期圓夢計畫，謝謝慧馨姐、白白以及各位老師的協助，讓我們能把提案計畫寫的更完善，在行銷方面也有了基礎的概念，以及AJ、Maggie......等業界老師的輔導，讓我獲益良多，也謝謝我的團員明妗、嘉伶和語軒，讓我能專心在自己前端的工作上，無後顧之憂。
